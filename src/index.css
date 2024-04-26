@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #FA9884; */
+  background-color: default;
+  /* background-color: #F5C6EC; */
+  /* background-color: #4CFFE3; */
+  /* background-color: #ff4c68; */
+  
+}
+/* array text */
+
+.MuiInputBase-root{
+  background-color: default;
+
+  /* background-color: #fff;      */
+}
+/* h3{
+  padding: 0% 30%;
+} */
+h3{
+  font-size: 2rem;
+}
+.MuiTabs-root{
+  background-color: #79ddec;
+  /* background-color:#FF7F93 ; */
+   /* background-color: default;  */
+}
+.makeStyles-root-1{
+  padding: 0% 0.5%;
+}
+.sc-eCImvq.bfIBcA{
+  /* background-color: #ff4c68; */
+  background-color: #FFE5CA;
+ 
+
+}
+.sc-eCImvq.bfIBcA{
+  /* color: black; */
+  /* color:#fff; */
+  font-family: "Ubuntu Bold 700";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",monospace;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
